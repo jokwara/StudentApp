@@ -6,7 +6,7 @@
 
     <groupId>net.oak.software</groupId>
     <artifactId>StudentApp</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <name>StudentApp</name>
     <packaging>war</packaging>
 
@@ -45,6 +45,7 @@
                 <artifactId>maven-war-plugin</artifactId>
                 <version>3.3.2</version>
             </plugin>
-        </plugins>
+        </plugins> 
+             <finalname>StudentAppMgt</finalName>    
     </build>
 </project>
