@@ -46,6 +46,6 @@
                 <version>3.3.2</version>
             </plugin>
         </plugins> 
-             <finalname>StudentAppMgt</finalName>    
+             <finalName>StudentAppMgt</finalName>    
     </build>
 </project>
