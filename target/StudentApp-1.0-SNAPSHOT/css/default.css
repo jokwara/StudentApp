@@ -1,0 +1,128 @@
+body{
+background-color: grey;
+border: 20px solid #9CC;
+width:  100%;
+}
+
+
+#bodyContainer{ 
+background-color: grey;
+height: 80em;
+
+}
+
+#middleContent{
+margin-top: 6em;
+width: 80em;
+margin-left:auto;
+margin-right: auto;
+
+}
+
+#imageContainer{
+
+
+}
+
+#firstRowContainer{
+border: 1px solid #9CC;
+width: 85em;
+}
+
+.onlineClasses{
+width: 160px;
+}
+
+.mailPanel{
+
+}
+
+
+.mailBody{
+ background:url('http://upload.wikimedia.org/wikipedia/commons/e/e7/Sky_with_puffy_clouds.JPG') no-repeat center center fixed;
+}
+
+.profileHeader{
+margin-left: 28px;
+margin-top: 4px;
+font-family: Georgia;
+font-size: 14px;
+
+border:  1px solid #9CC;
+    border-top: 4px solid #0099cc;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    border-radius: 8px;
+    box-shadow: 2px 4px 4px  4px #bdbcb0;
+    -webkit-box-shadow: 2px 4px 4px  4px #bdbcb0;
+    -moz-box-shadow: 2px 4px 4px  4px #bdbcb0;
+    background-color: #FFFFFF;
+}
+
+.useImageAttribute{
+margin-left: 6 px;
+margin-top:4px;
+}
+
+.navbar-inverse{
+padding-top: 20px;
+padding-bottom: 20px;
+border: 4px solid red;
+}
+
+.navbar-middle{
+float: right;
+}
+
+.navbar-right{
+margin-right: 15em;
+}
+
+input{
+margin-left: 1em;
+margin-bottom: .5em;
+width: 120px;
+}
+
+.checkbox{
+font-size: 14px;
+font-weight: bold;
+font-type: Georgia;
+}
+
+
+small{
+margin-left: 34em;
+text-align: center;
+font-size: 10px;
+font-family: Georgia;
+}
+
+.col-sm-4{
+padding: 3px;
+}
+
+img{
+margin-bottom:4px;
+margin-top: -28px;
+}
+
+lowerMessage{
+color: #000000;
+font-size: 16px;
+font-family: Georgia;
+font-weight: bold;
+font-style: normal;
+text-align: center;
+padding-top:  10em;
+margin-left: 22em;
+}
+
+
+mainLeft{
+margin-right: 15em;
+}
+
+#buttons{
+margin-top: 10px;
+}
