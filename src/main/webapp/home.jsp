@@ -21,7 +21,7 @@
     <nav class="navbar navbar-inverse">
         <div class="container-fluid">
             <ul class="nav navbar-nav navbar-left">
-                <li><a href="#"><header12>eManagement Application Suite Of the University of X </header12></a></li>
+                <li><a href="#"><header12>Tutorial Application for DevOps</header12></a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
                 <li><a data-toggle="modal" href="#registerModal"><span class="glyphicon glyphicon-user"></span> <mainLeft>Sign Up</mainLeft></a></li>
@@ -83,7 +83,7 @@
                     </div>
                 </div> <!-- End of Inner panel -->
             </div>
-            <div class="panel panel-footer"><smallFont>Copyright © Designed/Developed by Oak Software Systems for University X</smallFont></div>
+            <div class="panel panel-footer"><smallFont>Copyright Â© Designed/Developed by Oak Software Systems for University X</smallFont></div>
         </div> <!-- End of Outer Panel -->
     </div>
 </div> <!-- End of bodyContainer -->
